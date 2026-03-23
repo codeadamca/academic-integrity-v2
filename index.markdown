@@ -1,4 +1,5 @@
 <style>@import url("//cdn.brickmmo.com/readme@1.0.0/readme.css");</style>
+<script src="https://kit.fontawesome.com/57a8a8c892.js" crossorigin="anonymous"></script>
 
 ## Coding and Plagiarism
 

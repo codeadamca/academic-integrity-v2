@@ -1,4 +1,5 @@
 <style>@import url("//cdn.brickmmo.com/readme@1.0.0/readme.css");</style>
+<script src="https://kit.fontawesome.com/57a8a8c892.js" crossorigin="anonymous"></script>
 
 ## Chapter 1: Course Introduction
 
@@ -10,7 +11,7 @@ For this reason it is crucial that we first define coding plagiarism:
 
 **Coding Plagiarism:**  Copying or reproducing code that is not yours, without permission from the author, or against the assignment Academic Misconduct Policy. This includes copying code from online examples and fellow students, the use of libraries or frameworks, and the use of code generators.
 
-> **Learning to code is useful no matter what your career ambitions are.**. 
+> <i class="fas fa-quote-left" aria-hidden="true"></i>Learning to code is useful no matter what your career ambitions are.<i class="fas fa-quote-right" aria-hidden="true"></i>
 > <small>Arianna Huffington - Founder, The Huffington Post</small>
 
 ---
