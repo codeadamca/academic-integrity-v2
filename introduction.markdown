@@ -36,4 +36,10 @@ Learning to code can be hard. The most effective method of learning code is by a
 
 In the next chapter we will review how to properly cite code when it requires a citation.
 
-[Previous Chapter](/) | [Home](/) | [Next Chapter](/citing)
+[Previous Chapter](/) - [Home](/) - [Next Chapter](/citing)
+
+---
+
+<a href="https://codeadam.ca">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="100">
+</a>
