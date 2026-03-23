@@ -38,4 +38,66 @@ Below is an HTML and CSS code snippet copied from <a href="https://www.w3schools
 
 > <small><a href="https://www.w3schools.com/howto/howto_css_center-vertical.asp">https://www.w3schools.com/howto/howto_css_center-vertical.asp</a></small>
 
-Note that if the HTML and CSS were placed in two different files, they would both need to be cited separately.</p><div class="License w3-text-grey ca-font-small-fixed"><p>Code from W3Schools is free to use and manipulate. It has been released under the <a href="https://www.copyright.gov/fair-use/more-info.html">Fair Use License</a>. More information on the terms of use is available on the <a href="https://www.w3schools.com/about/about_copyright.asp">W3Schools</a> website.</p></div><hr class="ca-hr"><h3 class="w3-center">Example 2: JavaScript</h3><img src="/static/media/stackoverflow-validate-email.c925edbc.png" class="w3-image" alt=""><p class="ImageUrl w3-center ca-font-tiny-fixed"><a href="https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript">https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript</a></p><p>Below is a JavaScript code snippet copied from <a href="https://stackoverflow.com/">StackOverflow</a>. This code defines a function that validates an email address:</p><img src="/static/media/cite-validate-email.f8c5eb39.jpg" class="w3-image ca-code-image" alt=""><p class="ImageUrl w3-center ca-font-tiny-fixed"><a href="https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript">https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript</a></p><div class="License w3-text-grey ca-font-small-fixed"><p>Subscriber content from Stack Overflow is free to use and manipulate. Attribution must be included in your source code and you must share any improvements made to the original code. Subscriber content follows the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike (CC-BY-SA) License</a>. More information on the terms of use is available on the <a href="https://stackoverflow.com/legal/terms-of-service/public">Stack Overflow</a> website.</p></div><hr class="ca-hr"><h3 class="w3-center">Example 3: Python and LEGO™ EV3</h3><img src="/static/media/pybricks-ev3-robot.829172e9.png" class="w3-image" alt=""><p class="ImageUrl w3-center ca-font-tiny-fixed"><a href="https://pybricks.com/ev3-micropython/examples/robot_educator_line.html">https://pybricks.com/ev3-micropython/examples/robot_educator_line.html</a></p><p>Below is a Python code snippet copied from <a href="https://pybricks.com/ev3-micropython">Pybricks</a>. This code causes a LEGO™ EV3 robot to follow a black line:</p><img src="/static/media/cite-ev3-robot.77ea124b.jpg" class="w3-image ca-code-image" alt=""><p class="ImageUrl w3-center ca-font-tiny-fixed"><a href="https://pybricks.com/ev3-micropython/examples/robot_educator_line.html">https://pybricks.com/ev3-micropython/examples/robot_educator_line.html</a></p><div class="License w3-text-grey ca-font-small-fixed"><p>Code from Pybricks is free to use and manipulate. It has been released under the <a href="https://opensource.org/licenses/MIT">MIT License</a>. More information on the terms of use is available on the <a href="http://pybricks.com/about/#pybricks-is-open-source">Pybricks</a> website.</p></div></div></div><div class="Meme w3-padding-32 w3-light-grey"><div class="ca-container-600 w3-center"><img src="/static/media/jr-developer.e6eab778.jpeg" class="w3-image" alt=""><br><span class="w3-text-dark-grey ca-font-tiny-fixed">Jr. Developers [Digital Image]. 2019. Retrieved from <a href="https://www.reddit.com/r/ProgrammerHumor/">https://www.reddit.com/r/ProgrammerHumor/</a></span></div></div><div class="w3-padding-32"><div class="ca-container-600"><h2 class="w3-text-red w3-center">Licenses</h2><p>Even if properly cited, you must still make sure the content creator permits copying. Most popular coding resources use one of the following licenses:</p><ul><li><a href="https://creativecommons.org/licenses/">Creative Commons</a></li><li><a href="https://www.gnu.org/licenses/gpl-3.0.en.html">General Public License</a></li><li><a href="https://www.copyright.gov/fair-use/more-info.html">Fair Use</a></li></ul><p>If you cannot locate a license, look for the website Terms and Conditions. For example review the terms of use from <a href="https://www.w3schools.com/about/about_copyright.asp">W3Schools</a>.</p><p>Even after reading the Terms and Conditions, it may still be unclear as to whether or not a developer can use code from W3Schools for their own projects? In this case reach out to the website and ask. After a few email exchanges with W3Schools, I had the following questions answered:</p><ol><li>Can programmers use snippets of code from W3Schools for their personal portfolio?<br><strong>Yes, snippets of code is ok.</strong></li><li>Pan programmers use snippets of code from W3Schools for websites for clients?<br><strong>Yes, snippets of code is ok.</strong></li><li>Can students use snippets of code from W3Schools in their projects?<br>Assuming it is permitted by their instructors. Yes, snippets of code is ok.</li></ol></div></div><div class="NextSteps w3-padding-32 w3-light-grey"><div class="ca-container-600 w3-center"><h2 class="w3-text-dark-grey w3-center">Next Steps</h2><p>In the next chapter we will review the use of online coding documentation and how to incorporate code from these sources into student work.</p><p class="w3-center"><a href="/course-introduction">Previous Chapter</a>&nbsp; | &nbsp;<a href="/">Home</a>&nbsp; | &nbsp;<a href="/documentation">Next Chapter</a></p></div></div><div class="BigButton w3-padding-48 w3-dark-grey"><div class="ca-container-600 w3-center"><a href="/documentation"><button class="w3-button w3-blue w3-xlarge">Chapter 3: Online Documentation<span>&nbsp; <i class="fas fa-chevron-right" aria-hidden="true"></i></span></button></a></div></div></div>
+Note that if the HTML and CSS were placed in two different files, they would both need to be cited separately.
+
+Code from W3Schools is free to use and manipulate. It has been released under the <a href="https://www.copyright.gov/fair-use/more-info.html">Fair Use License</a>. More information on the terms of use is available on the <a href="https://www.w3schools.com/about/about_copyright.asp">W3Schools</a> website.
+
+---
+
+### Example 2: JavaScript
+
+![StackOverflow Validate](images/screenshots/stackoverflow-validate-email.png)
+
+> <small><a href="https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript">https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript</a></small>
+
+Below is a JavaScript code snippet copied from <a href="https://stackoverflow.com/">StackOverflow</a>. This code defines a function that validates an email address:
+
+![Cite Validate Email](images/code/cite-validate-email.jpg)
+> <small><a href="https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript">https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript</a></small>
+
+Subscriber content from Stack Overflow is free to use and manipulate. Attribution must be included in your source code and you must share any improvements made to the original code. Subscriber content follows the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike (CC-BY-SA) License</a>. More information on the terms of use is available on the <a href="https://stackoverflow.com/legal/terms-of-service/public">Stack Overflow</a> website.
+
+### Example 3: Python and LEGO™ EV3
+
+![PyBricks EV3 Robot](images/screenshots/pybricks-ev3-robot.png
+> <small><a href="https://pybricks.com/ev3-micropython/examples/robot_educator_line.html">https://pybricks.com/ev3-micropython/examples/robot_educator_line.html</a></small>
+
+Below is a Python code snippet copied from <a href="https://pybricks.com/ev3-micropython">Pybricks</a>. This code causes a LEGO™ EV3 robot to follow a black line:
+
+![Cite EV3 Robot](images/code/cite-ev3-robot.jpg)
+
+> <small><a href="https://pybricks.com/ev3-micropython/examples/robot_educator_line.html">https://pybricks.com/ev3-micropython/examples/robot_educator_line.html</a></small>
+
+Code from Pybricks is free to use and manipulate. It has been released under the <a href="https://opensource.org/licenses/MIT">MIT License</a>. More information on the terms of use is available on the <a href="http://pybricks.com/about/#pybricks-is-open-source">Pybricks</a> website.
+
+![Jr. Developer](images/memes/jr-developer.jpeg)
+> <small>Jr. Developers [Digital Image]. 2019. Retrieved from <a href="https://www.reddit.com/r/ProgrammerHumor/">https://www.reddit.com/r/ProgrammerHumor/</a></small>
+
+## Licenses
+
+Even if properly cited, you must still make sure the content creator permits copying. Most popular coding resources use one of the following licenses:
+
+1. <a href="https://creativecommons.org/licenses/">Creative Commons</a>
+2. <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">General Public License</a>
+3. <a href="https://www.copyright.gov/fair-use/more-info.html">Fair Use</a>
+
+If you cannot locate a license, look for the website Terms and Conditions. For example review the terms of use from <a href="https://www.w3schools.com/about/about_copyright.asp">W3Schools</a>.
+
+
+Even after reading the Terms and Conditions, it may still be unclear as to whether or not a developer can use code from W3Schools for their own projects. In this case, reach out to the website and ask. After a few email exchanges with W3Schools, I had the following questions answered:
+
+1. Can programmers use snippets of code from W3Schools for their personal portfolio?
+    **Yes, snippets of code is ok.**
+2. Can programmers use snippets of code from W3Schools for websites for clients?  
+	**Yes, snippets of code is ok.**
+3. Can students use snippets of code from W3Schools in their projects? Assuming it is permitted by their instructors. 
+    
+    **Yes, snippets of code is ok.**
+
+---
+
+## Next Steps
+
+In the next chapter we will review the use of online coding documentation and how to incorporate code from these sources into student work.
+
+[Previous Chapter](/course-introduction) - [Home](/) - [Next Chapter](/documentation)
