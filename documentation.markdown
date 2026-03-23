@@ -84,3 +84,9 @@ The above code is a function that can be used to send a UTF-8 formatted email us
 In the next chapter we will review the use of online coding examples and how to incorporate code from these sources into student work.
 
 [Previous Chapter](/citing-code) - [Home](/) - [Next Chapter](/examples)
+
+---
+
+<a href="https://codeadam.ca">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="100">
+</a>

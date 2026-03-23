@@ -1,27 +1,10 @@
 <style>@import url("//cdn.brickmmo.com/readme@1.0.0/readme.css");</style>
-Code Adam LogoTeaching|Research and Publishings|Speaking Engagements|Professional Development|About Me	
+<script src="https://kit.fontawesome.com/57a8a8c892.js" crossorigin="anonymous"></script>
 
-Chapter 8: Conclusion
-Course Complete
-Congratulations! You have completed the academic integrity course!
-Hopefully you are comfortable with reading and applying the Assignment Academic Integrity Guidelines! If you are ever unsure, don't hesitate to reach out to your professors.
+<div class="Conclusion"><div class="Header ca-adjust-nav"><header class="ca-border-bottom-gray w3-blue"><div class="w3-center"><h1 class="w3-text-white w3-padding-64">Chapter 8: Conclusion</h1></div></header></div><div class="w3-padding-32"><div class="ca-container-600"><h2 class="w3-text-red w3-center">Course Complete</h2><h3>Congratulations! You have completed the academic integrity course!</h3><p>Hopefully you are comfortable with reading and applying the Assignment Academic Integrity Guidelines! If you are ever unsure, don't hesitate to reach out to your professors.</p><hr class="ca-hr"><div class="Quote w3-orange w3-text-white w3-padding w3-padding-24 w3-left-align"><h3><i class="fas fa-quote-left" aria-hidden="true"></i>&nbsp;Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.&nbsp;<i class="fas fa-quote-right" aria-hidden="true"></i></h3><em>Bill Gates<br>Co-Founder, Microsoft</em></div><hr class="ca-hr"><p>Remember, the best way to learn code is to struggle through the assignments! The instances where an <code>if</code> statement takes over an hour to get working properly or when it takes a Stack Overflow question to fix an infinity <code>for</code> loop are the times you will learn the most.</p><h3>As cliché as it sounds, cheating robs you of the best learning moments.</h3><p>Are you in this program to simply complete it? Or are you in this program to actually learn how to code?</p></div></div><div class="Meme w3-padding-32 w3-light-grey"><div class="ca-container-600 w3-center"><img src="/static/media/unfinished-work.6b2d5980.png" class="w3-image" alt=""><br><span class="w3-text-dark-grey ca-font-tiny-fixed">Unfinished Work [Digital Image]. 2019. Retrieved from <a href="https://www.reddit.com/r/ProgrammerHumor/">https://www.reddit.com/r/ProgrammerHumor/</a></span></div></div><div class="w3-padding-32"><div class="ca-container-600"><h2 class="w3-text-red w3-center">Course Evaluation</h2><p>To complete this course, return to Blackboard and complete the Assignment Academic Integrity Guidelines quiz located in the Assignments folder. You must receive a 100% mark on this quiz to receive a SAT (satisfactory) grade. You have as many attempts as required to complete the quiz.</p></div></div><div class="NextSteps w3-padding-32 w3-light-grey"><div class="ca-container-600 w3-center"><h2 class="w3-text-dark-grey w3-center">Next Steps</h2><p>Congratulations! This course is complete. You can now return to Blackboard and complete the Academic Integrity Quiz.</p><p class="w3-center"><a href="/case-studies">Previous Chapter</a>&nbsp; | &nbsp;<a href="/">Home</a>&nbsp; | &nbsp;<a href="/">Next Chapter</a></p></div></div><div class="BigButton w3-padding-48 w3-dark-grey"><div class="ca-container-600 w3-center"><a href="/"><button class="w3-button w3-blue w3-xlarge">Course Home Page<span>&nbsp; <i class="fas fa-chevron-right" aria-hidden="true"></i></span></button></a></div></div></div>
 
- Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains. 
-Bill Gates
-Co-Founder, Microsoft
-Remember, the best way to learn code is to struggle through the assignments! The instances where an if statement takes over an hour to get working properly or when it takes a Stack Overflow question to fix an infinity for loop are the times you will learn the most.
+---
 
-As cliché as it sounds, cheating robs you of the best learning moments.
-Are you in this program to simply complete it? Or are you in this program to actually learn how to code?
-
-
-Unfinished Work [Digital Image]. 2019. Retrieved from https://www.reddit.com/r/ProgrammerHumor/
-Course Evaluation
-To complete this course, return to Blackboard and complete the Assignment Academic Integrity Guidelines quiz located in the Assignments folder. You must receive a 100% mark on this quiz to receive a SAT (satisfactory) grade. You have as many attempts as required to complete the quiz.
-
-Next Steps
-Congratulations! This course is complete. You can now return to Blackboard and complete the Academic Integrity Quiz.
-
-Previous Chapter  |  Home  |  Next Chapter
-
-⌂
+<a href="https://codeadam.ca">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="100">
+</a>

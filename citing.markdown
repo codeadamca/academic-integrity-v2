@@ -98,3 +98,9 @@ Even after reading the Terms and Conditions, it may still be unclear as to wheth
 In the next chapter we will review the use of online coding documentation and how to incorporate code from these sources into student work.
 
 [Previous Chapter](/course-introduction) - [Home](/) - [Next Chapter](/documentation)
+
+---
+
+<a href="https://codeadam.ca">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="100">
+</a>
