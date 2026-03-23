@@ -3,8 +3,6 @@
 
 # Chapter 3: Copying Code from Documentation
 
-## How to Identify Coding Documentation?
-
 Documentation used while coding is the equivalent of a dictionary used while writing an essay. It provides insight and/or snippets of individual commands, not a larger concept. Documentation may provide insight on:
 
 - Defining a CSS selector for HTML tags
