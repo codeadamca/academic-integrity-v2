@@ -1,7 +1,7 @@
 <style>@import url("//cdn.brickmmo.com/readme@1.0.0/readme.css");</style>
 <script src="https://kit.fontawesome.com/57a8a8c892.js" crossorigin="anonymous"></script>
 
-## Chapter 7: Academic Misconduct Case Studies
+## Chapter 8: Academic Misconduct Case Studies
 
 Below are a series of academic case studies loosely based on past events. Any names used are chosen at random.
 
@@ -64,7 +64,7 @@ In this case the copied code still amounts to plagiarism. Steve receives a zero 
 
 In the next chapter we will conclude this course and provide instructions for next steps.
 
-[Previous Chapter](/templates) | [Home](/) | [Next Chapter](/conclusion)
+[Previous Chapter](/templates) - [Home](/) - [Next Chapter](/conclusion)
 
 ---
 
