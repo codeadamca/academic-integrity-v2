@@ -12,7 +12,7 @@ However, identifying what is and what isn't academic misconduct when writing cod
 
 This course will outline those guidelines and require students to complete a series of quizzes to ensure the guidelines are understood.
 
-![Copy Paste Example](images/copy-paste.jpg)
+![Copy Paste Example](images/memes/copy-paste.jpg)
 > <small>Copy and Paste [Digital Image]. 2019. Retrieved from https://www.reddit.com/r/ProgrammerHumor/</small>
 
 ## Course Syllabus
@@ -45,7 +45,7 @@ This course will outline those guidelines and require students to complete a ser
     
     Guidelines on using existing code libraries, frameworks, and packages in student work.
 
-    [View this Chapter](/frameworks)
+    [View this Chapter](/libraries-frameworks)
 
 8. **Artificial Intelligence**
 
