@@ -61,17 +61,17 @@ Subscriber content from Stack Overflow is free to use and manipulate. Attributio
 
 ### Example 3: Python and LEGO™ EV3
 
-![PyBricks EV3 Robot](images/screenshots/pybricks-ev3-robot.png)
+![PyBricks EV3 Robot](images/screenshots/pybricks-ev3-robot.png). 
 > <small>[https://pybricks.com/ev3-micropython/examples/robot_educator_line.html](https://pybricks.com/ev3-micropython/examples/robot_educator_line.html)</small>
 
 Below is a Python code snippet copied from [Pybricks](https://pybricks.com/ev3-micropython). This code causes a LEGO™ EV3 robot to follow a black line:
 
-![Cite EV3 Robot](images/code/cite-ev3-robot.jpg)
+![Cite EV3 Robot](images/code/cite-ev3-robot.jpg). 
 > <small>[https://pybricks.com/ev3-micropython/examples/robot_educator_line.html](https://pybricks.com/ev3-micropython/examples/robot_educator_line.html)</small>
 
 Code from Pybricks is free to use and manipulate. It has been released under the [MIT License](https://opensource.org/licenses/MIT). More information on the terms of use is available on the [Pybricks](http://pybricks.com/about/#pybricks-is-open-source) website.
 
-![Jr. Developer](images/memes/jr-developer.jpeg)
+![Jr. Developer](images/memes/jr-developer.jpeg). 
 > <small>Jr. Developers [Digital Image]. 2019. Retrieved from [https://www.reddit.com/r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/)</small>
 
 ---
