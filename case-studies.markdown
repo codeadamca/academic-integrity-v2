@@ -6,7 +6,7 @@
 Below are a series of academic case studies loosely based on past events. Any names used are chosen at random.
 
 ![Incomplete Archives](images/memes/incomplete-archives.jpg)
-> <i class="fas fa-quote-left" aria-hidden="true"></i> Incomplete Archives [Digital Image]. 2020. Retrieved from <a href="https://www.reddit.com/r/ProgrammerHumor/">https://www.reddit.com/r/ProgrammerHumor/</a> <i class="fas fa-quote-right" aria-hidden="true"></i>
+> <small>Incomplete Archives [Digital Image]. 2020. Retrieved from [https://www.reddit.com/r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/)</small>
 
 ---
 
@@ -64,7 +64,7 @@ In this case the copied code still amounts to plagiarism. Steve receives a zero 
 
 In the next chapter we will conclude this course and provide instructions for next steps.
 
-[Previous Chapter](/assignment-templates) | [Home](/) | [Next Chapter](/conclusion)
+[Previous Chapter](/templates) | [Home](/) | [Next Chapter](/conclusion)
 
 ---
 

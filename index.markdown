@@ -16,6 +16,8 @@ This course will outline those guidelines and require students to complete a ser
 ![Copy Paste Example](images/memes/copy-paste.jpg)
 > <small>Copy and Paste [Digital Image]. 2019. Retrieved from https://www.reddit.com/r/ProgrammerHumor/</small>
 
+---
+
 ## Course Syllabus
 
 1. **Course Introduction**

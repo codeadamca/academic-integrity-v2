@@ -1,7 +1,7 @@
 <style>@import url("//cdn.brickmmo.com/readme@1.0.0/readme.css");</style>
 <script src="https://kit.fontawesome.com/57a8a8c892.js" crossorigin="anonymous"></script>
 
-# Chapter 3: Copying Code from Documentation
+## Chapter 3: Copying Code from Documentation
 
 Documentation used while coding is the equivalent of a dictionary used while writing an essay. It provides insight and/or snippets of individual commands, not a larger concept. Documentation may provide insight on:
 
@@ -83,7 +83,7 @@ The above code is a function that can be used to send a UTF-8 formatted email us
 
 In the next chapter we will review the use of online coding examples and how to incorporate code from these sources into student work.
 
-[Previous Chapter](/citing-code) - [Home](/) - [Next Chapter](/examples)
+[Previous Chapter](/citing) - [Home](/) - [Next Chapter](/examples)
 
 ---
 

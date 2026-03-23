@@ -44,6 +44,14 @@ Using AI to **generate full solutions (“vibe coding”)** is only acceptable i
 
 ---
 
+## Next Steps
+
+Each assignment will have different rules for what existing code can be incorporated into an assignment. In the next chapter we will review how to read Assignment Academic Integrity Guidelines.
+
+[Previous Chapter](/examples) - [Home](/) - [Next Chapter](/ai)
+
+---
+
 <a href="https://codeadam.ca">
 <img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="100">
 </a>

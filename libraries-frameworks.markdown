@@ -7,15 +7,15 @@ Libraries and frameworks are prewriten code that make common tasks easier to com
 
 **Library:** a set of functions that you can call, often organized into classes, that are used alongside the application flow.
 
-<a href="https://d3js.org/"><img src="/static/media/d3.89cc0b6f.png" class="w3-image ca-image-small ca-margin-small-vertical ca-margin-small-horizontal" alt=""></a> <a href="https://jquery.com/"><img src="/static/media/jquery.e0b17b3f.png" class="w3-image ca-image-small ca-margin-small-vertical ca-margin-small-horizontal" alt=""></a> <a href="https://socket.io/"><img src="/static/media/socket.1d32e79f.png" class="w3-image ca-image-small ca-margin-small-vertical ca-margin-small-horizontal" alt=""></a> <a href="https://threejs.org/">IMAGE</a> <a href="http://wideimage.sourceforge.net/">IMAGE</a>
+[![D3](images/topics/d3.png)](https://d3js.org/) [![jQuery](images/topics/jquery.png)](https://jquery.com/) [![Socket.IO](images/topics/socket.png)](https://socket.io/) [![Three.js](images/topics/three.jpeg)](https://threejs.org/) [![WideImage](images/topics/wide-image.jpg)](http://wideimage.sourceforge.net/)
 
 **Framework:** provides a structure to build an application within, often the framework replaces the application flow.
 
-<a href="https://firebase.google.com/"><img src="/static/media/firebase.7b209f48.png" class="w3-image ca-image-small ca-margin-small-vertical ca-margin-small-horizontal" alt=""></a> <a href="https://reactjs.org/"><img src="/static/media/react.6645cd46.png" class="w3-image ca-image-small ca-margin-small-vertical ca-margin-small-horizontal" alt=""></a> <a href="https://vuejs.org/">IMAGE</a><a href="https://laravel.com/"><img src="/static/media/laravel.3950c5bb.jpg" class="w3-image ca-image-small ca-margin-small-vertical ca-margin-small-horizontal" alt=""></a>
+[![Firebase](images/topics/firebase.png)](https://firebase.google.com/) [![React](images/topics/react.png)](https://reactjs.org/) [![Vue.js](images/topics/vue.jpg)](https://vuejs.org/) [![Laravel](images/topics/laravel.jpg)
+](https://laravel.com/)
 
-<img src="/static/media/library-scratch.fb04776d.jpg" class="w3-image" alt="">
-
-> <i class="fas fa-quote-left" aria-hidden="true"></i> Using Libraries [Digital Image]. 2018. Retrieved from <a href="https://www.reddit.com/r/ProgrammerHumor/">https://www.reddit.com/r/ProgrammerHumor/</a> <i class="fas fa-quote-right" aria-hidden="true"></i>
+![Library Scratch](images/memes/library-scratch.jpg)
+> <small>Using Libraries [Digital Image]. 2018. Retrieved from [https://www.reddit.com/r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/)</small>
 
 ## Can I Use Libraries and Frameworks?
 
@@ -23,11 +23,13 @@ The use of coding libraries and frameworks are prohibited unless the assignment 
 
 The use of libraries and frameworks do not require any type of citation.
 
+---
+
 ## Next Steps
 
-Each assignment will have different rules for what existing code can be incorporated into an assignment. In the next chapter we will review how to read Assignment Academic Integrity Guidelines.
+AI is changing the way we code. IN the next chapter we will review how and when to use AI in assignments. 
 
-<a href="/examples">Previous Chapter</a> - <a href="/">Home</a> - <a href="/assignment-templates">Next Chapter</a>
+[Previous Chapter](/examples) - [Home](/) - [Next Chapter](/ai)
 
 ---
 

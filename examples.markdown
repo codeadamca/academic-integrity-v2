@@ -1,7 +1,7 @@
 <style>@import url("//cdn.brickmmo.com/readme@1.0.0/readme.css");</style>
 <script src="https://kit.fontawesome.com/57a8a8c892.js" crossorigin="anonymous"></script>
 
-# Chapter 4: Copying Code from Examples
+## Chapter 4: Copying Code from Examples
 
 Examples used while coding are the equivalent of copying a paragraph from a paper or book while writing an essay. Copying content from another literature source is often permitted, but must be done properly and with a citation. Example code snippets provide working code that completes a larger objective. For example, coding examples may include code that:
 
@@ -19,7 +19,7 @@ Code examples are easier to identify as they are ready to use and will often wor
 ---
 
 ![Code Doesn't Work](images/memes/code-doesnt-work.jpg)
-> <i class="fas fa-quote-left" aria-hidden="true"></i> Code Doesn't Work [Digital Image]. 2019. Retrieved from <a href="https://www.reddit.com/r/ProgrammerHumor/">https://www.reddit.com/r/ProgrammerHumor/</a> <i class="fas fa-quote-right" aria-hidden="true"></i>
+> <small>Code Doesn't Work [Digital Image]. 2019. Retrieved from [https://www.reddit.com/r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/)</small>
 
 ---
 
@@ -59,8 +59,6 @@ This code provides a sample of how to incorporate keyboard input using buttons a
 
 > Code from the [Arduino](https://www.arduino.cc/) website is free to use under the [Creative Commons](https://creativecommons.org/).
 
----
-
 ![I Stole It](images/memes/stole.png)
 > <small>I Stole It [Digital Image]. 2020. Retrieved from [https://www.reddit.com/r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/)</small>
 
@@ -78,7 +76,7 @@ In addition, you must receive permission from your professor when copying code f
 
 Copying code from a fellow student without permission is considered plagiarism. A single infraction will result in the same academic penalties as copying code from an online source. However, in this case both the student who copied the code and the student who provided the code will be charged with academic misconduct.
 
-#### Do not under any circumstances, provide students with a copy of your code.
+**Do not under any circumstances, provide students with a copy of your code.**
 
 When helping fellow students, be careful not to share your code, either by sharing files or sharing your screen. It is best to help your fellow students by reviewing their code, offering verbal suggestions, and/or providing links to helpful resources.
 

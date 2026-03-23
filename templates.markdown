@@ -9,10 +9,8 @@ However, in the programming industry copying is often permitted, and sometimes e
 
 While programming in academia, students will learn programming fundamentals by coding everything from scratch, and as the program progresses, students will learn to integrate more and more prewritten code into projects. For that reason, every coding assignment will include a set of Assignment Academic Integrity Guidelines. These guidelines will outline what use of prewritten code is permitted for each assignment.
 
----
-
 ![Part of Your Code Doesn't Work](images/memes/car-copying.jpg)
-> <i class="fas fa-quote-left" aria-hidden="true"></i> Part of Your Code Doesn't Work [Digital Image]. 2020. Retrieved from <a href="https://www.reddit.com/r/ProgrammerHumor/">https://www.reddit.com/r/ProgrammerHumor/</a> <i class="fas fa-quote-right" aria-hidden="true"></i>
+> <small>Part of Your Code Doesn't Work [Digital Image]. 2020. Retrieved from [https://www.reddit.com/r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/)
 
 ---
 
@@ -74,7 +72,7 @@ The above guidelines permit the copying of code from documentation and examples 
 
 In the next chapter we will review a series of academic misconduct case studies and their academic penalties.
 
-[Previous Chapter](/libraries-frameworks) - [Home](/) - [Next Chapter](/case-studies)
+[Previous Chapter](/ai) - [Home](/) - [Next Chapter](/case-studies)
 
 ---
 
