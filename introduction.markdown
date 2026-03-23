@@ -34,4 +34,4 @@ Learning to code can be hard. The most effective method of learning code is by a
 
 In the next chapter we will review how to properly cite code when it requires a citation.
 
-[Previous Chapter](/)  |  [Home](/)  |  [Next Chapter](/citing)
+[Previous Chapter](/) | [Home](/) | [Next Chapter](/citing)
