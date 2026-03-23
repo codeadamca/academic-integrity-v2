@@ -1,7 +1,7 @@
 <style>@import url("//cdn.brickmmo.com/readme@1.0.0/readme.css");</style>
 <script src="https://kit.fontawesome.com/57a8a8c892.js" crossorigin="anonymous"></script>
 
-# AI Use in Assignments
+# Chapter 6: AI Use in Assignments
 
 **If you can’t explain your code, you didn’t write it.**
 
@@ -48,7 +48,7 @@ Using AI to **generate full solutions (“vibe coding”)** is only acceptable i
 
 Each assignment will have different rules for what existing code can be incorporated into an assignment. In the next chapter we will review how to read Assignment Academic Integrity Guidelines.
 
-[Previous Chapter](/examples) - [Home](/) - [Next Chapter](/ai)
+[Previous Chapter](/examples) - [Home](/) - [Next Chapter](/templates)
 
 ---
 
