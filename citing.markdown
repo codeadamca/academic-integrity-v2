@@ -15,7 +15,7 @@ In your source code, directly above the snippet of code that requires a citation
 4. A URL to the page the code was copied from
 
 ![Differetn Tech](images/memes/different-tech.jpg)
-> <small>Not the First [Digital Image]. 2019. Retrieved from <a href="https://www.reddit.com/r/ProgrammerHumor/">https://www.reddit.com/r/ProgrammerHumor/</a></small>
+> <i class="fas fa-quote-left" aria-hidden="true"></i> Not the First [Digital Image]. 2019. Retrieved from <a href="https://www.reddit.com/r/ProgrammerHumor/">https://www.reddit.com/r/ProgrammerHumor/</a> <i class="fas fa-quote-right" aria-hidden="true"></i>
 
 ## Citation Examples
 

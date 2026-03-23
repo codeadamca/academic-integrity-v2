@@ -12,7 +12,7 @@ While programming in academia, students will learn programming fundamentals by c
 ---
 
 ![Part of Your Code Doesn't Work](images/memes/car-copying.jpg)
-> <small>Part of Your Code Doesn't Work [Digital Image]. 2020. Retrieved from [https://www.reddit.com/r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/)</small>
+> <i class="fas fa-quote-left" aria-hidden="true"></i> Part of Your Code Doesn't Work [Digital Image]. 2020. Retrieved from <a href="https://www.reddit.com/r/ProgrammerHumor/">https://www.reddit.com/r/ProgrammerHumor/</a> <i class="fas fa-quote-right" aria-hidden="true"></i>
 
 ---
 

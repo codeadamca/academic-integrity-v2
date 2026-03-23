@@ -19,7 +19,7 @@ Code examples are easier to identify as they are ready to use and will often wor
 ---
 
 ![Code Doesn't Work](images/memes/code-doesnt-work.jpg)
-> <small>Code Doesn't Work [Digital Image]. 2019. Retrieved from [https://www.reddit.com/r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/)</small>
+> <i class="fas fa-quote-left" aria-hidden="true"></i> Code Doesn't Work [Digital Image]. 2019. Retrieved from <a href="https://www.reddit.com/r/ProgrammerHumor/">https://www.reddit.com/r/ProgrammerHumor/</a> <i class="fas fa-quote-right" aria-hidden="true"></i>
 
 ---
 
