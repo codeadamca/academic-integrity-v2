@@ -14,8 +14,8 @@ In your source code, directly above the snippet of code that requires a citation
 3. The date it was copied
 4. A URL to the page the code was copied from
 
-![Differetn Tech](images/memes/different-tech.jpg)
-<small>Not the First [Digital Image]. 2019. Retrieved from [https://www.reddit.com/r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/)</small>
+![Differetn Tech](images/memes/different-tech.jpg). 
+> <small>Not the First [Digital Image]. 2019. Retrieved from [https://www.reddit.com/r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/)</small>
 
 ---
 
