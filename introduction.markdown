@@ -22,7 +22,7 @@ Copying code is considered cheating. A single infraction will likely result in a
 
 Learning to code can be hard. The most effective method of learning code is by actually coding; by spending lots of time trying, failing, debugging, and finally succeeding. The act of copying code will rob a student of the struggle required to learn code. If a student copies code during the crucial first few assignments students will have an even more difficult time with more advanced assignments and become dependent on using code that is not their own.
 
-<iframe width="100%" height="338" src="https://www.youtube.com/embed/dU1xS07N-FA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="533" height="300" src="https://www.youtube.com/embed/dU1xS07N-FA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ---
 
