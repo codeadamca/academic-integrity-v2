@@ -24,6 +24,8 @@ Learning to code can be hard. The most effective method of learning code is by a
 
 <iframe width="100%" height="338" src="https://www.youtube.com/embed/dU1xS07N-FA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+---
+
 ## Glossary of Terms
 
 **Academic Integrity Guidelines:** A per assignment policy that outlines the use of code retrieved from the internet. The policy specifically addresses the use of code documentation, coding examples, libraries, frameworks, and packages.
