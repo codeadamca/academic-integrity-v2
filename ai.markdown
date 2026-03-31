@@ -13,7 +13,7 @@ Artificial Intelligence (AI) tools can help you learn, but they can also reduce 
 
 ## Understanding Code
 
-Using AI to **understand code** is always acceptable acceptable. This would be the equivalent of using coding dpocumentation. 
+Using AI to **understand code** is always acceptable acceptable. This would be the equivalent of using coding documentation. 
 
 Examples:
 - Explaining code  
@@ -24,7 +24,7 @@ Examples:
 
 ## Writing Code
 
-Using AI to **write portions of code** is sometimes acceptable. This would be the equivalent of using coding exmaples. 
+Using AI to **write portions of code** is sometimes acceptable. This would be the equivalent of using coding examples. 
 
 - Follow assignment guidelines  
 - Make sure you understand the code  
