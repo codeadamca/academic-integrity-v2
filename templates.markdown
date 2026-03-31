@@ -7,7 +7,7 @@ As an author, in academia or industry, copying content from an article or novel 
 
 However, in the programming industry copying is often permitted, and sometimes even preferred. Why program something from scratch when there is an existing solution that has been used, tested, and patched?
 
-While programming in academia, students will learn programming fundamentals by coding everything from scratch, and as the program progresses, students will learn to integrate more and more prewritten code into projects. For that reason, every coding assignment will include a set of Assignment Academic Integrity Guidelines. These guidelines will outline what use of prewritten code is permitted for each assignment.
+While programming in academia, students will learn programming fundamentals by coding everything from scratch, and as the program progresses, students will learn to integrate more and more pre-written code into projects. For that reason, every coding assignment will include a set of Assignment Academic Integrity Guidelines. These guidelines will outline what use of pre-written code is permitted for each assignment.
 
 ![Part of Your Code Doesn't Work](images/memes/car-copying.jpg)
 > <small>Part of Your Code Doesn't Work [Digital Image]. 2020. Retrieved from [https://www.reddit.com/r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/)
