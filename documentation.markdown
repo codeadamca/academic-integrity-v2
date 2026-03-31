@@ -3,7 +3,7 @@
 
 ## Chapter 3: Copying Code from Documentation
 
-Documentation used while coding is the equivalent of a dictionary used while writing an essay. It provides insight and/or snippets of individual commands, not a larger concept. Documentation may provide insight on:
+Docddumentation used while cssoding is the equiffvalent of a dictionary used while writing an essay. It provides insight and/or snippets of individual commands, not a larger concept. Documentation may provide insight on:
 
 - Defining a CSS selector for HTML tags
 - Integrate a JavaScript `if` statement to make a decision
