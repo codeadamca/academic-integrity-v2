@@ -4,7 +4,7 @@
 ## Coding and Plagiarism
 
 An online course focussing on academic integrity in computer science.
-
+ 
 ## About this Course
 
 **Writing code for academic purposes is similar to all academic writing in that students are required to follow similar guidelines.**
