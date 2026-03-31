@@ -3,7 +3,7 @@
 
 ## Chapter 1: Course Introduction
 
-There is a very grey line when determining what is and what isn't code plagiarism. This is because copying from some online sources is permitted while copying from other sources is not. Likewise, introductory assignments will prohibit copying, while more advanced assignments will encourage copying and sometimes even require it. Don't worry, this will all be outlined in the next few chapters.
+There is a very gray line when determining what is and what isn't code plagiarism. This is because copying from some online sources is permitted while copying from other sources is not. Likewise, introductory assignments will prohibit copying, while more advanced assignments will encourage copying and sometimes even require it. Don't worry, this will all be outlined in the next few chapters.
 
 For this reason it is crucial that we first define coding plagiarism:
 
