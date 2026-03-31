@@ -5,7 +5,7 @@
 
 Not all code needs to be cited. Which code needs to be cited and which code does not needs to be cited will be covered in the next two chapters.
 
-For now, let's say we have found some code online that we would like to use in an assignment. Let's also assume that a. the code snippet falls under the [Creative Commons](https://creativecommons.org/); and b) the assignment permits the use of code samples. So how do we cite a code snippet?
+For now, let's say we have found some code online that we would like to use in an assignment. Let's also assume that a. the code snippet falls under the [Creative Commons](https://creativecommons.org/); and b. the assignment permits the use of code samples. So how do we cite a code snippet?
 
 In your source code, directly above the snippet of code that requires a citation, add a comment including:
 
@@ -14,7 +14,7 @@ In your source code, directly above the snippet of code that requires a citation
 3. The date it was copied
 4. A URL to the page the code was copied from
 
-![Differetn Tech](images/memes/different-tech.jpg). 
+![Different Tech](images/memes/different-tech.jpg). 
 > <small>Not the First [Digital Image]. 2019. Retrieved from [https://www.reddit.com/r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/)</small>
 
 ---
