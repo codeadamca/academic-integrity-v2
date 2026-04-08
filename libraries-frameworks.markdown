@@ -3,7 +3,7 @@
 
 ## Chapter 5: Libraries and Frameworks
 
-Libraries and frameworks are prewriten code that make common tasks easier to complete.
+Libraries and frameworks are prewritten code that make common tasks easier to complete.
 
 **Library:** a set of functions that you can call, often organized into classes, that are used alongside the application flow.
 
